@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Contact Us
-description: Get in touch with our team for sponsorship inquiries, joining, or general questions.
+description: Get in touch with our team for partnership inquiries, joining, or general questions.
 permalink: /contact/
 ---
 
-We'd love to hear from you! Whether you're interested in joining the team, becoming a sponsor, or just want to learn more about what we do, please reach out.
+We'd love to hear from you! Whether you're interested in joining the team, becoming a partner, or just want to learn more about what we do, please reach out.
 
 ## Contact Information
 
@@ -33,7 +33,7 @@ We'd love to hear from you! Whether you're interested in joining the team, becom
     <h3 class="card-title">Sponsorship</h3>
     <p class="text-[var(--color-text-muted)] mb-4">Interested in supporting our team? We'd love to partner with you.</p>
     <a href="/sponsors/" class="btn-secondary inline-flex items-center gap-2">
-      Learn About Sponsorship
+      Learn About Partnership
     </a>
   </div>
 </div>

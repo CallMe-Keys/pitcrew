@@ -1,15 +1,15 @@
 # Site settings
-title: "PitCrew Robotics"
-description: "https://github.com/braineatingmachines/pitcrew"
-url: ""
+title: "E.A.G.L.E.S. Robotics"
+description: "insert acronym"
+url: "insert school robotics page"
 baseurl: ""
 
 # Team configuration
 site:
-  team_name: "PitCrew"
-  team_number: "271828"
-  program: "FTC"  # FTC or FRC
-  current_season: "2025-2026"
+  team_name: "E.A.G.L.E.S. Robotics"
+  team_number: "8286"
+  program: "FRC"  # FTC or FRC
+  current_season: "2026-2027"
   logo: "/assets/images/placeholder.svg"
 
 # Theme configuration - Official FTC Colors
@@ -45,7 +45,7 @@ navigation:
     url: /season/
   - title: Awards
     url: /awards/
-  - title: Sponsors
+  - title: Partners
     url: /sponsors/
   - title: Docs
     url: /docs/
@@ -58,12 +58,13 @@ socials:
   github: "https://github.com/teamrobotics"
   youtube: "https://youtube.com/@teamrobotics"
   twitter: "https://twitter.com/teamrobotics"
-  email: "team@example.com"
+  email: "farwellrobotics8286@farwellschools.net"
+
 
 # Fundraising/Donations
 fundraising:
-  enabled: false
-  url: ""
+  enabled: true
+  url: "insert"
   text: "Support Our Team"
 
 # Collections

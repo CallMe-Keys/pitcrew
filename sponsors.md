@@ -1,32 +1,32 @@
 ---
 layout: page
-title: Sponsors
-description: Thank you to our generous sponsors who make our team possible.
+title: Partners
+description: Thank you to our generous partners who make our team possible.
 permalink: /sponsors/
 ---
 
-Our team relies on the generosity of sponsors to fund robot parts, competition fees, travel expenses, and outreach activities. We are deeply grateful for their support.
+Our team relies on the generosity of partners to fund robot parts, competition fees, travel expenses, and outreach activities. We are deeply grateful for their support.
 
 {% include components/sponsor-grid.html %}
 
 ---
 
-## Become a Sponsor
+## Become a Partner
 
-Your sponsorship helps us:
+Your Partnership helps us:
 - **Purchase materials** for building and maintaining our robot
 - **Register for competitions** and pay entry fees
 - **Travel to events** including regional and state championships
 - **Conduct outreach** programs in our community
 - **Provide meals** for students during long build sessions
 
-### Sponsorship Tiers
+### Partnership Tiers
 
 <div class="grid md:grid-cols-2 gap-6 my-8">
 
 <div class="card border-4 border-gray-400">
   <div class="card-body">
-    <h3 class="card-title">Platinum Sponsor</h3>
+    <h3 class="card-title">Platinum Partner</h3>
     <p class="text-2xl font-bold text-primary mb-4">$2,500+</p>
     <ul class="space-y-2 text-[var(--color-text-muted)]">
       <li>Large logo on robot</li>
@@ -41,7 +41,7 @@ Your sponsorship helps us:
 
 <div class="card border-4 border-yellow-500">
   <div class="card-body">
-    <h3 class="card-title">Gold Sponsor</h3>
+    <h3 class="card-title">Gold Partner</h3>
     <p class="text-2xl font-bold text-primary mb-4">$1,000+</p>
     <ul class="space-y-2 text-[var(--color-text-muted)]">
       <li>Logo on robot</li>
@@ -55,7 +55,7 @@ Your sponsorship helps us:
 
 <div class="card border-4 border-gray-300">
   <div class="card-body">
-    <h3 class="card-title">Silver Sponsor</h3>
+    <h3 class="card-title">Silver Partner</h3>
     <p class="text-2xl font-bold text-primary mb-4">$500+</p>
     <ul class="space-y-2 text-[var(--color-text-muted)]">
       <li>Logo on team shirts</li>
@@ -67,7 +67,7 @@ Your sponsorship helps us:
 
 <div class="card border-4 border-amber-700">
   <div class="card-body">
-    <h3 class="card-title">Bronze Sponsor</h3>
+    <h3 class="card-title">Bronze Partner</h3>
     <p class="text-2xl font-bold text-primary mb-4">$250+</p>
     <ul class="space-y-2 text-[var(--color-text-muted)]">
       <li>Listed on website</li>
@@ -95,6 +95,6 @@ Donations to our team may be tax-deductible. Please contact us for more informat
 
 ## Contact Us
 
-Interested in becoming a sponsor? We'd love to hear from you!
+Interested in becoming a Partner? We'd love to hear from you!
 
 [Contact Our Team](/contact/)
